@@ -1,0 +1,36 @@
+= QuestionChainJS
+
+== What Am I?
+
+This is a JS Library to be used in conjunction with the soon to be released QuestionChain gem; which is a development tool
+to be used with the CarbonCalculated API http://carboncalculated.com
+ 
+This will take the JSON from a generated QuestionChain and Render an amazing looking form that has events and triggers
+In a nut shell this allows you to build carbon applications in minutes not days!!
+
+We are also currently in the process of creating a SproutCore Version so watch for that
+
+== Dependencies:
+
+ * [Mootools](http://mootools.com/) 1.2.4
+ * [Mustache](https://github.com/defunkt/mustache)
+
+== Getting started
+
+== UiObjects
+
+=== Drop Downs
+
+===  Object Reference Drop Downs
+
+===  Rules
+
+===  Attribute Change
+
+===  Search
+
+===  Markup
+
+=== CSS
+
+=== Bundling
