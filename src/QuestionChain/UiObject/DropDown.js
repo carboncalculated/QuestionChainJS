@@ -6,7 +6,7 @@ QuestionChain.UiObject.DropDown = new Class({
 		this.selected_value = json_bundle.selected_value;
 		this.populate = json_bundle.populate;
 		this.prompt = json_bundle.prompt;
-		this.ui_options = json_bundle.options;
+		this.ui_options = json_bundle.drop_down_options;
 		this.has_drop_down_target = false;
 		this.parse_options();
 	},
